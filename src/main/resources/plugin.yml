@@ -1,0 +1,4 @@
+name: EWSpawn
+version: '${version}'
+main: ru.ewspawn.EWSpawn
+api-version: 1.19
